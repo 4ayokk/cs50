@@ -100,3 +100,4 @@ INVALID
 3. Так, останній розряд отриманої суми (20) - це 0, а, отже, номер карти Девіда справжній!
 
 ---
+Посилання на курс: https://courses.prometheus.org.ua/courses/course-v1:Prometheus+CS50+2019_T1/course/
