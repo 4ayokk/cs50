@@ -68,3 +68,4 @@ CS50 допомагає учасникам розвивати креативне
 </details>
 -->
 
+Посилання на курс: https://courses.prometheus.org.ua/courses/course-v1:Prometheus+CS50+2019_T1/course/
